@@ -1,0 +1,24 @@
+{
+  "name": "updated-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyramirez/Updated-Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyramirez/Updated-Portfolio/issues"
+  },
+  "homepage": "https://github.com/nyramirez/Updated-Portfolio#readme",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "jquery": "^3.3.1",
+    "request": "^2.88.0"
+  }
+}
